@@ -15,9 +15,6 @@ public class Main {
         System.out.println("silverCoin = " + silverCoin);
         System.out.println("ironCoin = " + ironCoin);
 
-        Test test = new Test();
-        System.out.println("test = " + test);
-
     }
 
 }
