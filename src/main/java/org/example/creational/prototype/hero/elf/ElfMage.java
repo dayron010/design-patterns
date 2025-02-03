@@ -1,8 +1,8 @@
-package org.example.creational.prototype.elf;
+package org.example.creational.prototype.hero.elf;
 
 import lombok.EqualsAndHashCode;
 import lombok.RequiredArgsConstructor;
-import org.example.creational.prototype.Mage;
+import org.example.creational.prototype.hero.Mage;
 
 /**
  * ElfMage

@@ -1,4 +1,4 @@
-package org.example.creational.prototype;
+package org.example.creational.prototype.hero;
 
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;

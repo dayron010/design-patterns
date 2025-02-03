@@ -1,9 +1,9 @@
-package org.example.creational.prototype.factory;
+package org.example.creational.prototype.hero.factory;
 
 import lombok.RequiredArgsConstructor;
-import org.example.creational.prototype.Beast;
-import org.example.creational.prototype.Mage;
-import org.example.creational.prototype.Warlord;
+import org.example.creational.prototype.hero.Beast;
+import org.example.creational.prototype.hero.Mage;
+import org.example.creational.prototype.hero.Warlord;
 
 /**
  * Concrete factory class

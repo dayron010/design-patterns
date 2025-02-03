@@ -1,12 +1,12 @@
-package org.example.creational.prototype;
+package org.example.creational.prototype.hero;
 
-import org.example.creational.prototype.elf.ElfBeast;
-import org.example.creational.prototype.elf.ElfMage;
-import org.example.creational.prototype.elf.ElfWarlord;
-import org.example.creational.prototype.factory.HeroFactoryImpl;
-import org.example.creational.prototype.orc.OrcBest;
-import org.example.creational.prototype.orc.OrcMage;
-import org.example.creational.prototype.orc.OrcWarlord;
+import org.example.creational.prototype.hero.elf.ElfBeast;
+import org.example.creational.prototype.hero.elf.ElfMage;
+import org.example.creational.prototype.hero.elf.ElfWarlord;
+import org.example.creational.prototype.hero.factory.HeroFactoryImpl;
+import org.example.creational.prototype.hero.orc.OrcBest;
+import org.example.creational.prototype.hero.orc.OrcMage;
+import org.example.creational.prototype.hero.orc.OrcWarlord;
 
 public class App {
 

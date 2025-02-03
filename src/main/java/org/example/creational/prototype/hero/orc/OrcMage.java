@@ -1,25 +1,25 @@
-package org.example.creational.prototype.orc;
+package org.example.creational.prototype.hero.orc;
 
 import lombok.EqualsAndHashCode;
 import lombok.RequiredArgsConstructor;
-import org.example.creational.prototype.Beast;
+import org.example.creational.prototype.hero.Mage;
 
 /**
- * OrcBest
+ * OrcMage
  */
 @EqualsAndHashCode(callSuper = false)
 @RequiredArgsConstructor
-public class OrcBest extends Beast {
+public class OrcMage extends Mage {
 
     private final String weapon;
 
-    public OrcBest(Beast beast, String weapon) {
-        super(beast);
+    public OrcMage(Mage mage, String weapon) {
+        super(mage);
         this.weapon = weapon;
     }
 
     @Override
     public String toString() {
-        return "Orcish wolf attacks with " + weapon;
+        return "Orcish mage attacks with " + weapon;
     }
 }

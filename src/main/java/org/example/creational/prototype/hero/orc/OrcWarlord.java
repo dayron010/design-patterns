@@ -1,8 +1,8 @@
-package org.example.creational.prototype.orc;
+package org.example.creational.prototype.hero.orc;
 
 import lombok.EqualsAndHashCode;
 import lombok.RequiredArgsConstructor;
-import org.example.creational.prototype.Warlord;
+import org.example.creational.prototype.hero.Warlord;
 
 /**
  * OrcWarlord
