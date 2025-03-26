@@ -7,7 +7,7 @@ public class Main {
                 new Student("Vali", 10),
                 new Student("Sardor", 11),
                 new Student("Jasur", 10),
-                new Student("Nodir", 9),
+                new Student("Nodir", 9)
         };
 
         Classroom classroom = new Classroom(students);
