@@ -1,4 +1,4 @@
-package org.example.behavioral.chain_of_responsibility;
+package org.example.behavioral.chain_of_responsibility.example1;
 
 // ConcreteHandler 1: Team Lead
 public class TeamLead extends Approver {
