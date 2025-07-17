@@ -1,4 +1,4 @@
-package org.example.behavioral.command;
+package org.example.behavioral.command.example1;
 
 // 2. Reciever klasi (matn bilan ishlash uchun)
 public class TextEditor {

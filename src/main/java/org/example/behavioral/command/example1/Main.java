@@ -1,4 +1,4 @@
-package org.example.behavioral.command;
+package org.example.behavioral.command.example1;
 
 // 5. Client kodi
 public class Main {

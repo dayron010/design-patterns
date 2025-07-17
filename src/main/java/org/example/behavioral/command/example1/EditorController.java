@@ -1,4 +1,4 @@
-package org.example.behavioral.command;
+package org.example.behavioral.command.example1;
 
 // Invoker klasi
 public class EditorController {
