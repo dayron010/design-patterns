@@ -1,4 +1,4 @@
-package org.example.behavioral.mediator;
+package org.example.behavioral.mediator.example1;
 
 public class ChatUser extends User {
 

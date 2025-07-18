@@ -1,4 +1,4 @@
-package org.example.behavioral.mediator;
+package org.example.behavioral.mediator.example1;
 
 // Mediator interface
 public interface ChatMediator {
